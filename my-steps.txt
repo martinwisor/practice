@@ -97,13 +97,20 @@ rm -r drinks
 
 
 ### Step 4
-
+cd unit1-git-practice
+git init
+git add .
 
 ### Step 5
+git remote add origin https://github.com/martinwisor/deliverable-one.git
+git branch -M main
+git push -u origin main
 
 
 ### Step 6
-
+touch menu.txt
+ls
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
+
