@@ -1,0 +1,109 @@
+### Step 2A
+/Users/martinwisor
+
+### Step 2B
+ls
+cd Desktop
+
+### Step 2C
+ls
+cd unit1-git-practice
+
+### Step 2D
+/Users/martinwisor/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd /
+
+### Step 2H
+martinwisor@Sofias-iMac / 
+
+### Step 2I
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+### Step 2J
+cd ~
+
+### Step 2K
+ls
+cd Desktop
+ls
+cd unit1-git-practice  
+
+### Step 3A
+mkdir meats
+mkdir veggies
+mkdir desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+cd .. mv meats proteins
+
+### Step 3E
+ls
+cd veggies
+touch carrot.txt
+touch pea.txt 
+
+### Step 3F
+cd ..
+ls
+cd sweets
+touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+cd unit1-git-practice 
+touch thing.txt 
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins
+mv crab.txt meats
+
+### Step 3L
+cd ..
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks
+rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
